@@ -1,5 +1,5 @@
-# My First React Project
+# React Boilerplate
 
-Hey, welcome to my project.
+Hey, welcome to React.
 
 Run `npm install` first, then `npm run start`.
